@@ -19,4 +19,4 @@ Our project "Swasthyam" provides multiple routes to have a stress-free mind and 
 
 ## :maple_leaf: [Click here](https://www.youtube.com/watch?v=k19DwQau7DE) to view Video
 
-## :maple_leaf: [Click here](https://rohitbhat1603.github.io/Mathematicia/) to view our project
+## :maple_leaf: [Click here](https://rohitbhat1603.github.io/Swasthyam/) to view our project
